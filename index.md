@@ -11,62 +11,61 @@ Changes may have been made to this document since its publication. You can downl
 ### Contents
 
 #### 1. Game Concepts
-
-##### 100. General
-##### 101. The Magic Golden Rules
-##### 102. Players
-##### 103. Starting the Game
-##### 104. Ending the Game
-##### 105. Colors
-##### 106. Mana
-##### 107. Numbers and Symbols
-##### 108. Cards
-##### 109. Objects
-##### 110. Permanents
-##### 111. Tokens
-##### 112. Spells
-##### 113. Abilities
-##### 114. Emblems
-##### 115. Targets
-##### 116. Special Actions
-##### 117. Timing and Priority
-##### 118. Costs
-##### 119. Life
-##### 120. Damage
-##### 121. Drawing a Card
-##### 122. Counters
+* 100. General
+* 101. The Magic Golden Rules
+* 102. Players
+* 103. Starting the Game
+* 104. Ending the Game
+* 105. Colors
+* 106. Mana
+* 107. Numbers and Symbols
+* 108. Cards
+* 109. Objects
+* 110. Permanents
+* 111. Tokens
+* 112. Spells
+* 113. Abilities
+* 114. Emblems
+* 115. Targets
+* 116. Special Actions
+* 117. Timing and Priority
+* 118. Costs
+* 119. Life
+* 120. Damage
+* 121. Drawing a Card
+* 122. Counters
 
 #### 2. Parts of a Card
-##### 200. General
-##### 201. Name
-##### 202. Mana Cost and Color
-##### 203. Illustration
-##### 204. Color Indicator
-##### 205. Type Line
-##### 206. Expansion Symbol
-##### 207. Text Box
-##### 208. Power/Toughness
-##### 209. Loyalty
-##### 210. Hand Modifier
-##### 211. Life Modifier
-##### 212. Information Below the Text Box
+* 200. General
+* 201. Name
+* 202. Mana Cost and Color
+* 203. Illustration
+* 204. Color Indicator
+* 205. Type Line
+* 206. Expansion Symbol
+* 207. Text Box
+* 208. Power/Toughness
+* 209. Loyalty
+* 210. Hand Modifier
+* 211. Life Modifier
+* 212. Information Below the Text Box
 
 #### 3. Card Types
-##### 300. General
-##### 301. Artifacts
-##### 302. Creatures
-##### 303. Enchantments
-##### 304. Instants
-##### 305. Lands
-##### 306. Planeswalkers
-##### 307. Sorceries
-##### 308. Tribals
-##### 309. Dungeons
-##### 310. Planes
-##### 311. Phenomena
-##### 312. Vanguards
-##### 313. Schemes
-##### 314. Conspiracies
+* 300. General
+* 301. Artifacts
+* 302. Creatures
+* 303. Enchantments
+* 304. Instants
+* 305. Lands
+* 306. Planeswalkers
+* 307. Sorceries
+* 308. Tribals
+* 309. Dungeons
+* 310. Planes
+* 311. Phenomena
+* 312. Vanguards
+* 313. Schemes
+* 314. Conspiracies
 
 4. Zones
 400. General
