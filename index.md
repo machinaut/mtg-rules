@@ -10,9 +10,9 @@ Changes may have been made to this document since its publication. You can downl
 
 ### Contents
 
-#### 1. Game Concepts
-* 100. General
-* 101. The Magic Golden Rules
+#### [1. Game Concepts](#1.)
+* [100. General](#100.)
+* [101. The Magic Golden Rules](#101.)
 * 102. Players
 * 103. Starting the Game
 * 104. Ending the Game
@@ -173,3 +173,6 @@ Rules have 7831 lines.
 First line 'Magic: The Gathering Comprehensive Rules'
 Second line ''
 Third line 'These rules are effective as of September 24, 2021.'
+## <a name="1."></a>[1. Game Concepts](#1.)
+
+### A Heading in this SO entry!

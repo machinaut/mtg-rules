@@ -191,9 +191,9 @@ Changes may have been made to this document since its publication. You can downl
 
 ### Contents
 
-#### 1. Game Concepts
-* 100. General
-* 101. The Magic Golden Rules
+#### [1. Game Concepts](#1.)
+* [100. General](#100.)
+* [101. The Magic Golden Rules](#101.)
 * 102. Players
 * 103. Starting the Game
 * 104. Ending the Game
@@ -363,6 +363,9 @@ def main(rules: List[str]) -> str:
     result += f'First line {repr(rules[0])}\n'
     result += f'Second line {repr(rules[1])}\n'
     result += f'Third line {repr(rules[2])}\n'
+    result += '## <a name="1."></a>[1. Game Concepts](#1.)\n\n'
+    result += '### A Heading in this SO entry!\n'
+
     return result
 
 
